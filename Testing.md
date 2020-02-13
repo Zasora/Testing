@@ -18,6 +18,6 @@ Here you could have some info about this page.
 
 Here would be some info about the thing.
 
-![WaddleDoo](Images/WaddleDoo.JPG)
+![WaddleDoo](Images/WaddleDoo.jpg)
 
 Above this is an image I hope!
