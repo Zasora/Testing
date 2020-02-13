@@ -35,3 +35,7 @@ Above this is an image I hope!
 	1. Uh huh
 
 1. yes
+
+> Not sure what arrows do
+
+< This ones left, top one is right.
