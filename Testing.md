@@ -1,6 +1,9 @@
-# Contributing
+# This has one hashtag
 
-Thank you for your intrest in building this repository!\
-Please read through this before submitting [issues](#issues) and [pull requests](#pull-requests). Also contained are the [guidelines to follow](#guidelines) when writing material.
+This doesn't have any!
 
-## Issues
+## this has two.
+
+### This text has three hashtags
+
+#### This has four.
