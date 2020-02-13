@@ -20,4 +20,4 @@ Here would be some info about the thing.
 
 ![WaddleDoo](Images/WaddleDoo.jpg)
 
-Above this is an image I hope!
+Above this is an image I hope!    
