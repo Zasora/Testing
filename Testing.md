@@ -20,4 +20,18 @@ Here would be some info about the thing.
 
 ![WaddleDoo](Images/WaddleDoo.jpg)
 
-Above this is an image I hope!    
+Above this is an image I hope!
+
+1. lists
+
+1. work
+
+	1. like
+
+		1. this
+
+		1. yeah
+
+	1. Uh huh
+
+1. yes
