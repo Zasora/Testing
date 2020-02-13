@@ -7,3 +7,17 @@ This doesn't have any!
 ### This text has three hashtags
 
 #### This has four.
+
+
+
+# This could be the title of the page!
+
+Here you could have some info about this page. 
+
+## This would be a title for a portion of this page.
+
+Here would be some info about the thing.
+
+![WaddleDoos](Images/WaddleDoo.JPG)
+
+Above this is an image I hope!
