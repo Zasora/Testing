@@ -26,7 +26,7 @@ corner of the game view.
 
 ### Editing Text Objects
 
-You can edit your text in multiple ways in unity. You can change the font, bold, italics,
-size and more. This can all be done in the text objects text component. 
+You can edit your text in multiple ways in unity. You can change what the text says, the font, 
+bold, italics, size and more. This can all be done in the text objects text component. 
 
 ![EditingText](Images/EditingText.PNG)
