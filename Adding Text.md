@@ -23,4 +23,4 @@ game view.
 
 ![GameViewScene](Images/GameViewScene.PNG)
 ![GameViewgame](Images/GameViewgame.PNG)
-
+![Canvas](Images/Canvas.PNG)
