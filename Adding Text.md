@@ -24,5 +24,3 @@ corner of the game view.
 
 ![GameViewScene](Images/GameViewScene.PNG)
 ![GameViewGame](Images/GameViewGame.PNG)
-
-Why it no update?
