@@ -22,5 +22,5 @@ view. In this example, it is shown in the top corner of the canvas and the top c
 game view. 
 
 ![GameViewScene](Images/GameViewScene.PNG)
-![GameViewgame](Images/GameViewgame.PNG)
+![GameViewGame](Images/GameViewGame.PNG)
 ![Canvas](Images/Canvas.PNG)
