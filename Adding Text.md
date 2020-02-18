@@ -14,6 +14,7 @@ will happen when you create your first text object. This will also automatically
 you create a text object if you have a canvas already.
 
 ![Canvas](Images/Canvas.PNG)
+![Canvas](Images/Canvas.PNG)
 
 Imagine the canvas as a game view for your text object. Instead of placing your text where
 you want it within the camera view, you will place it in the canvas. If you place it in the
